@@ -1,0 +1,11 @@
+config = {
+  mac_address = "AA:BB:CC:DD:CC:BB",
+  replace_mac = true,
+  wifi_ssid = "ssid", 
+  wifi_pwd = "pwd",
+  led_pin = 6,
+  button_pin = 2,
+  server_host = "example.com",
+  connectivify_check_url = "http://connectivitycheck.gstatic.com/generate_204",
+  connectivify_check_interval_ms = 30000
+}
